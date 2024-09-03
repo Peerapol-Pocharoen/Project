@@ -1,0 +1,50 @@
+.center-text{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: #e0d581;
+}
+
+.highlight{
+    background-color: rgb(115, 116, 115);
+    padding: 1px;                  
+    display: inline-flex;
+    margin: 0 ;
+}
+
+#header{
+    font-size: 60px;
+}
+
+.pressable-button{
+    padding: 6% 10%;
+    font-size: 35px;
+    color: #2c2525;
+    background-color: #e0d581;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pressable-button:hover {
+    background-color: #0056b3;
+}
+
+.icon-container{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.icon-container img{
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+}

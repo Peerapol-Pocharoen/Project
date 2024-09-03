@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #e1b5b5;
+    color: rgb(206, 255, 237);
+    padding: 1em;
+    text-align: center;
+}
+
+
+.center-text{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: #e0d581;
+}
+
+.highlight{
+    background-color: rgb(54, 128, 54);
+    padding: 1px;                  
+    display: inline-flex;
+    margin: 0 ;
+}
+
+#Tophead{
+    font-size: 60px;
+}
+
+select{
+    text-align: center;
+}
+
+.pressable-button{
+    padding: 6% 10%;
+    font-size: 35px;
+    color: #2c2525;
+    background-color: #e0d581;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pressable-button:hover {
+    background-color: #0056b3;
+}
+
+.icon{
+    width: 80px;
+    height: 80px;
+}
+
+.icon-container{
+    position: relative;
+    top: 165px;
+    left: 0px;
+}

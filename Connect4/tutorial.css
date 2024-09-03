@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #e1b5b5;
+    color: rgb(206, 255, 237);
+    padding: 1em;
+    text-align: center;
+}
+
+table {
+    align-items: center;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.empty_dot {
+    height: 50px;
+    width: 50px;
+    background-color: #7e7878;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.p1_dot {
+    height: 50px;
+    width: 50px;
+    background-color: #fd0303;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+.p2_dot {
+    height: 50px;
+    width: 50px;
+    background-color: #ffee00;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.spacing_bot {
+    margin-bottom: 5%;
+}
